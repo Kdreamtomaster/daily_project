@@ -11,7 +11,7 @@
 // 3	4	    12
 // 27	19	    513
 
-class java240626 {
+class Java240626 {
     public int solution(int num1, int num2) {
         int answer = 0;
         answer = num1 * num2;
