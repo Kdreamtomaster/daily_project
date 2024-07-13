@@ -15,7 +15,7 @@
 // ["there","are","no","a","ds"]	["there","are","no","a","ds"]
 
 // 답
-class Solution {
+class JAVA240701 {
     public String[] solution(String[] strArr) {
         String[] answer = {};
         int j = 0;
